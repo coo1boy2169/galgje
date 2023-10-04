@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.||L|.|.|.|E|.|
+|F||L|I|K|K|E|R|
 |-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|
 
@@ -13,4 +13,4 @@
 1. Coo1boy2169 raad de letter E(dit is goed)
 2. fox raad de letter L(dit is goed)
 3. fox raadt elpader(dit is fout loser)
-4. fox raadt flinder
+4. fox raadt flinder(fout)
