@@ -10,4 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1.
+1.Coo1boy2169 raad de letter E
