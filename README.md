@@ -7,8 +7,8 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 1. fox raad L ( GOEDDD )
-2. jay raad B
+2. jay raad B ( NIET GOED LEKKER VOOR JE )
