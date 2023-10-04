@@ -12,3 +12,4 @@
 ## Beurten
 1. fox raad L ( GOEDDD )
 2. jay raad B ( NIET GOED LEKKER VOOR JE )
+3. ole raad E 
