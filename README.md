@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.||.|.|.|.|.|.|
+|.||.|.|.|.|E|.|
 |-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|
 
@@ -10,4 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1.Coo1boy2169 raad de letter E
+1.Coo1boy2169 raad de letter E(dit is goed)
