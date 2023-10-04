@@ -12,3 +12,4 @@
 ## Beurten
 1. Coo1boy2169 raad de letter E(dit is goed)
 2. fox raad de letter L(dit is goed)
+3. fox raadt elpader
