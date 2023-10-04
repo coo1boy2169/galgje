@@ -3,14 +3,11 @@
 ## Te raden woord
 
 
-|-|-|-|-|-|-|-|
-|1|2|3|4|5|6|7|
+|j|a|y|.|i|s|.|r|i|z|z|l|e|r|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/1.png)
 
 ## Beurten
-1. Coo1boy2169 raad de letter E(dit is goed)
-2. fox raad de letter L(dit is goed)
-3. fox raadt elpader(dit is fout loser)
-4. fox raadt flinder(fout)
+1 fox raadt: jay is rizzler (goed gedaan)
