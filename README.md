@@ -11,4 +11,4 @@
 
 ## Beurten
 1. fox raad L ( GOEDDD )
-2. 
+2. jay raad B
